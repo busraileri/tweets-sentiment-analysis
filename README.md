@@ -10,8 +10,6 @@ This project utilizes a dataset designed for sentiment analysis on Twitter, wher
 
 The dataset can be found at the following location: /kaggle/input/sentiment140/training.1600000.processed.noemoticon.csv
 
-You can find the notebook [here](https://www.kaggle.com/code/busraileri/twitter-sentiment-analysis-gaih).
-
 
 ### Data Size
 
