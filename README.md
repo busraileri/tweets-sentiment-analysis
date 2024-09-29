@@ -8,7 +8,7 @@ This project utilizes a dataset designed for sentiment analysis on Twitter, wher
 - **0** for negative sentiment
 - **4** for positive sentiment
 
-The dataset can be found at the following location: /kaggle/input/sentiment140/training.1600000.processed.noemoticon.csv
+The dataset source: https://www/kaggle/input/sentiment140/training.1600000.processed.noemoticon.csv
 
 
 ### Data Size
